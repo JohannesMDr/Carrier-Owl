@@ -4,8 +4,11 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        breast cancer: 5
+        mammography: 5
+        segmentation: 5
+        detection: 3
+        classification: 3
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 6
